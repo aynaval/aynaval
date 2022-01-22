@@ -1,21 +1,3 @@
-<!--
-### Hi there 👋
-
-
-**aynaval/aynaval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🔭 I’m currently working on solving data science problems
-- 🌱 I’m currently learning data science
-- 👯 I’m looking to collaborate on data science use-cases
-- 🤔 I’m looking for help with deep learing
-- 💬 Ask me about data
-- 📫 How to reach me: m-lavanya@outlook.com
-- ⚡ Fun fact: Stories are just data with a soul.
--->
-
 <h1 align="center">Hi 👋, I'm Lavanya</h1>
 <h3 align="center">A passionate data science enthusiast from India</h3>
 
@@ -37,6 +19,8 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/lavanya_2222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lavanya_2222" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lavnaya m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lavnaya m" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
