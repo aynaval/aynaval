@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on solving data science
+- 🔭 I’m currently working on solving data science problems
 - 🌱 I’m currently learning data science
 - 👯 I’m looking to collaborate on data science use-cases
 - 🤔 I’m looking for help with deep learing
