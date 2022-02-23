@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif)
+![MasterHead](https://64.media.tumblr.com/1e1ca1e770436c9549752d1e438e1eee/ef443435a0905e95-a3/s2048x3072/96964fcb422dc7c93f98fedbac69e643f03c1e1b.gif)
 <h1 align="center">Hi 👋, I'm Lavanya</h1>
 <h3 align="center">A passionate data science enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4435100/screenshots/15114878/media/4c6a0c6609a93d143bb24302f91a8657.gif">
