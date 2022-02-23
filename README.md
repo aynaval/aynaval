@@ -1,4 +1,4 @@
-![MasterHead](https://image.shutterstock.com/image-vector/machine-learning-banner-web-icon-260nw-1110900704.jpg)
+![MasterHead](https://thumbs.dreamstime.com/b/artificial-intelligence-concept-banner-header-big-brain-circuit-programmers-machine-learning-data-science-cognitive-143071108.jpg)
 <h1 align="center">Hi 👋, I'm Lavanya</h1>
 <h3 align="center">A passionate data science enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4435100/screenshots/15114878/media/4c6a0c6609a93d143bb24302f91a8657.gif">
