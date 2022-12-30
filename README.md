@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **any tech use cases**
 
-- 🤝 I’m looking for help with **deep learning**
+- 🤝 I’m looking for help with **NLP**
 
 - 💬 Ask me about **data**
 
